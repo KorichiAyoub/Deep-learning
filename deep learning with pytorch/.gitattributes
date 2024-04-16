@@ -1,0 +1,5 @@
+# Disable line ending normalization for a specific file
+*.ipynb -text
+
+# Set line ending conversion to CRLF for a specific file
+*.txt text eol=crlf
